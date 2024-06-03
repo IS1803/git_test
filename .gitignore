@@ -1,0 +1,5 @@
+#Exclude file with .class and .vscode using gitignore
+*.class
+.vscode
+
+
