@@ -9,6 +9,8 @@ public class DbUtils {
     private static final String DB_USERNAME = "sa";
     private static final String DB_PASS = "Abc123@$";
     private static final String moreva = "abcxyz";
+    private static final String morevar = "sabcxyz";
+
     
 
     public static Connection getConnection() throws ClassNotFoundException, SQLException {
