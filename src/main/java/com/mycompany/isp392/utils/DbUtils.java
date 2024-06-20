@@ -8,6 +8,8 @@ public class DbUtils {
     private static final String DB_NAME = "ecomerce";
     private static final String DB_USERNAME = "sa";
     private static final String DB_PASS = "Abc123@$";
+    private static final String moreva = "abcxyz";
+    
 
     public static Connection getConnection() throws ClassNotFoundException, SQLException {
         Connection conn = null;
